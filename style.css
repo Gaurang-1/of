@@ -1,5 +1,5 @@
 body{
-    background-size: 1200px;
+    background-size: 1600px;
 }
 
 #object{
@@ -24,4 +24,9 @@ body{
     color: black;
     width:50px;
     border-radius: 10px;
+}
+
+canvas{
+    border:2px, dashed, white;
+    box-shadow: 5px 5px 5px white;
 }
